@@ -20,6 +20,7 @@ The dataset was originally from Kaggle: https://www.kaggle.com/datasets/olistbr/
 - **Google Cloud Dataproc**
 - **JupyterLab** (via Dataproc Notebooks)
 - **BigQuery**
+- **Looker Studio**
 
 ---
 
