@@ -19,6 +19,7 @@ The dataset was originally from Kaggle: https://www.kaggle.com/datasets/olistbr/
 - **HDFS**  
 - **Google Cloud Dataproc**
 - **JupyterLab** (via Dataproc Notebooks)
+- **BigQuery**
 
 ---
 
